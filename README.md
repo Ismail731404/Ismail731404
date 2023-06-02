@@ -51,5 +51,5 @@
 
 You can reach me at:
 
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-linkedin/)
+- Email: liamsi2019@gmal.com
+- LinkedIn: [ALI OMAR](https://www.linkedin.com/in/ismail-ali-omar-a63395185/)
