@@ -34,9 +34,10 @@
 - [Project 2](https://github.com/Ismail731404/project2)
 - [Project 3](https://github.com/Ismail731404/project3) -->
 
-### :zap: GitHub Stats
+<!-- ### :zap: GitHub Stats
 
-![Ismail731404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail731404&show_icons=true&theme=radical)
+![Ismail731404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail731404&show_icons=true&theme=radical) -->
+
 
 
 ### Contact Me 📫
