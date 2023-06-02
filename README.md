@@ -2,11 +2,11 @@
 
 ![Profile views](https://gpvc.arturio.dev/Ismail731404)  
 
-[![Linkedin Badge](https://img.shields.io/badge/-ismail731404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismail731404/)](https://www.linkedin.com/in/ismail731404/) 
+[![Linkedin Badge](https://img.shields.io/badge/-ismail731404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismail731404/)](https://www.linkedin.com/in/ismail-ali-omar-a63395185/) 
 
 ## I'm a Developer, and Lifelong Learner!
 
-- 🔭 I’m currently working on a [My Project](https://github.com/Ismail731404/my-project)
+- 🔭 I’m currently working on a [Myrtea Metric](https://github.com/myrteametrics/myrtea-engine-api)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ismail731404 Spotify Playing" width="350" />](https://open.spotify.com/user/ismail731404)
+[<img src="https://open.spotify.com/user/d75rhss51bzwg6eccuquqrnyn" alt="Ismail731404 Spotify Playing" width="350" />](https://open.spotify.com/user/d75rhss51bzwg6eccuquqrnyn)
 
 ### Languages and Tools:
 
@@ -28,24 +28,15 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 
-### Some of my favorite projects
+<!-- ### Some of my favorite projects
 
 - [Project 1](https://github.com/Ismail731404/project1)
 - [Project 2](https://github.com/Ismail731404/project2)
-- [Project 3](https://github.com/Ismail731404/project3)
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [Project 3](https://github.com/Ismail731404/project3) -->
 
 ### :zap: GitHub Stats
 
 ![Metrics](https://metrics.lecoq.io/Ismail731404?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)
-
-
-### :zap: Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ### Contact Me 📫
 
