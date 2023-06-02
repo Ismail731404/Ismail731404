@@ -36,7 +36,8 @@
 
 ### :zap: GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/Ismail731404?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)
+![Ismail731404's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismail731404&show_icons=true&theme=radical)
+
 
 ### Contact Me 📫
 
