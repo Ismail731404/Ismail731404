@@ -44,5 +44,4 @@
 
 You can reach me at:
 
-- Email: liamsi2019@gmal.com
 - LinkedIn: [ALI OMAR](https://www.linkedin.com/in/ismail-ali-omar-a63395185/)
