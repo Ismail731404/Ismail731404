@@ -1,7 +1,5 @@
 # Hello, I'm Ismail 👋
 
-![Profile views](https://gpvc.arturio.dev/Ismail731404)  
-
 [![Linkedin Badge](https://img.shields.io/badge/-ismail731404-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismail731404/)](https://www.linkedin.com/in/ismail-ali-omar-a63395185/) 
 
 ## I'm a Developer, and Lifelong Learner!
@@ -9,7 +7,7 @@
 - 🔭 I’m currently working on a [Myrtea Metric](https://github.com/myrteametrics/myrtea-engine-api)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Spotify Playing 🎧
